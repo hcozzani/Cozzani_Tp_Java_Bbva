@@ -6,10 +6,7 @@ Este proyecto es un sistema de gestión de pólizas de seguros que permite a los
 
 ## Características del Proyecto
 
-- **Gestión de Clientes**: CRUD de clientes.
-- **Gestión de Tipos de Seguros**: CRUD de diferentes tipos de seguros.
 - **Gestión de Pólizas**: CRUD de pólizas de seguros, asociando clientes y tipos de seguros.
-- **Gestión de Siniestros**: CRUD de siniestros relacionados a las pólizas.
 - **Autenticación y Autorización**: Implementada con Spring Security y JWT para proteger las rutas de la API.
 - **Validación de Datos**: Validación de las entradas de usuario con anotaciones de Jakarta Validation.
 - **Pruebas Unitarias y de Integración**: Pruebas con JUnit y Mockito para garantizar la calidad del código.
