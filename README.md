@@ -70,6 +70,15 @@ El proyecto sigue una arquitectura de capas bien definida:
   - `PUT /tipos-seguros/{id}`
   - `DELETE /tipos-seguros/{id}`
 
+## Contacto
+
+- **Nombre:** Hugo Cozzani
+- **LinkedIn:** [www.linkedin.com/in/hacozzani](https://www.linkedin.com/in/hacozzani)
+
+## Repositorio Frontend
+
+- **Frontend (React):** [Repositorio en GitHub](https://github.com/hcozzani/Cozzani_Tp_React_Bbva)
+
 ## Instalación y Ejecución
 
 1. Clona el repositorio:
